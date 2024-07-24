@@ -14,10 +14,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Homepage of Ziming Liu, a Ph.D. student at National University of Singapore. B.S. from Peking University. Research interests include high-performance computing, Machine Learning systems, and distributed systems.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: G-4B4FWKWSVM
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Ziming Liu"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '{year} Ziming Liu, NUS HPC-AI lab. All rights reserved.'
     license:
       enable: true
       allow_derivatives: false

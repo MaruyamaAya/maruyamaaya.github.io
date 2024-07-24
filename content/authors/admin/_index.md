@@ -3,7 +3,7 @@
 title: Ziming Liu
 
 # Name pronunciation (optional)
-name_pronunciation: 刘子铭
+name_pronunciation: 子铭刘
 
 # Full name (for SEO)
 first_name: Ziming
