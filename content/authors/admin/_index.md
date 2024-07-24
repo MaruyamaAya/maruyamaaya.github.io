@@ -57,7 +57,7 @@ education:
     date_start: 2023-01-07
     date_end: ''
     summary: |
-      Working on Machine Learning System, supervised by Presidential Yound Professor [Yang You](https://www.comp.nus.edu.sg/~youy/).
+      Working on Machine Learning System, supervised by Presidential Yound Professor Yang You.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -77,7 +77,7 @@ education:
     date_start: 2016-09-01
     date_end: 2020-07-01
     summary: |
-      Bacholor's degree of computer science and engineering. Supervised by [Prof. Tong Yang](https://yangtonghome.github.io/)
+      Bacholor's degree of computer science and engineering. Supervised by Prof. Tong Yang.
 work:
   - position: Research Intern
     company_name: Microsoft Research
@@ -86,7 +86,7 @@ work:
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
-      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
+      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang.
   - position: Research Intern
     company_name: HPC-AI Tech
     company_url: https://colossalai.org/
@@ -95,8 +95,8 @@ work:
     date_end: 2022-12-01
     summary: |
       Responsibilities include:
-      - Developing the efficient LLM inference system [EnergonAI](https://github.com/hpcaitech/EnergonAI)
-      - Optimizing the implementation of [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+      - Developing the efficient LLM inference system EnergonAI.
+      - Optimizing the implementation of ColossalAI.
   - position: Machine Learning Engineer
     company_name: ByteDance
     company_url: https://www.bytedance.com/en/
