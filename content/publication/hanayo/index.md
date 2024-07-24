@@ -36,8 +36,8 @@ abstract: Large-scale language models have become increasingly challenging and e
 summary: Efficient Pipeline Parallelism System for LLM.
 
 tags:
-  - Large Language Models
   - Pipeline Parallelism
+  - Large Language Models
   - High Performance Computing
 
 # Display this page in the Featured widget?
