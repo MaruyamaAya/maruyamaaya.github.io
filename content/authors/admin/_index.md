@@ -82,7 +82,7 @@ work:
   - position: Research Intern
     company_name: Microsoft Research
     company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
-    company_logo: "custom/Microsoft_logo"
+    company_logo: custom/Microsoft_logo
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
@@ -90,7 +90,7 @@ work:
   - position: Research Intern
     company_name: HPC-AI Tech
     company_url: https://colossalai.org/
-    company_logo: "custom/luchen"
+    company_logo: custom/luchen
     date_start: 2022-05-01
     date_end: 2022-12-01
     summary: |
@@ -100,7 +100,7 @@ work:
   - position: Machine Learning Engineer
     company_name: ByteDance
     company_url: https://www.bytedance.com/en/
-    company_logo: "custom/bytedance"
+    company_logo: custom/bytedance
     date_start: 2020-09-01
     date_end: 2021-06-01
     summary: |
@@ -134,11 +134,11 @@ skills:
       - name: Board Games
         description: ''
         percent: 100
-        icon: "custom/monopoly"
+        icon: custom/monopoly
       - name: Rhythm Games
         description: Including maimai, chunithm, ongeki, and so on.
         percent: 90
-        icon: "custom/maimai"
+        icon: custom/maimai
 
 languages:
   - name: Chinese
@@ -157,7 +157,7 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-06-27'
     awarder: National University of Singapore
-    icon: "custom/nus"
+    icon: custom/nus
     summary: |
       Awarded based on excellent performace as a tutor for CS5242 Deep Learning and Nerual Network. (3 out of all CS PhD students)
 ---
