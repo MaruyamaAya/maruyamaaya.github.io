@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Ziming Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 刘子铭
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ziming
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: National University of Singapore
+    url: https://www.comp.nus.edu.sg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'liuziming@comp.nus.edu.sg'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/lzm_mlsys
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/MaruyamaAya
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://linkedin.com/in/ziming-liu-mlsys/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=UPFptUwAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-3355-6770
 
 interests:
   - Artificial Intelligence
