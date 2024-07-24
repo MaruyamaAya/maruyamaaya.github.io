@@ -47,106 +47,105 @@ profiles:
     url: https://orcid.org/0009-0009-3355-6770
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning System
+  - High Performance Computing
+  - Sparse Inference & Training
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: National University of Singapore
+    date_start: 2023-01-07
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Working on Machine Learning System, supervised by Presidential Yound Professor [Yang You](https://www.comp.nus.edu.sg/~youy/).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Msc Artificial Intelligence
+    institution: National University of Singapore
+    date_start: 2021-08-01
+    date_end: 2023-01-01
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Computer Science
+    institution: Peking University
+    date_start: 2016-09-01
+    date_end: 2020-07-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Bacholor's degree of computer science and engineering. Supervised by [Prof. Tong Yang](https://yangtonghome.github.io/)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Research Intern
+    company_name: Microsoft Research
+    company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
+    company_logo: "custom/Microsoft_logo"
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
+  - position: Research Intern
+    company_name: HPC-AI Tech
+    company_url: https://colossalai.org/
+    company_logo: "custom/luchen"
+    date_start: 2022-05-01
+    date_end: 2022-12-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing the efficient LLM inference system [EnergonAI](https://github.com/hpcaitech/EnergonAI)
+      - Optimizing the implementation of [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+  - position: Machine Learning Engineer
+    company_name: ByteDance
+    company_url: https://www.bytedance.com/en/
+    company_logo: "custom/bytedance"
+    date_start: 2020-09-01
+    date_end: 2021-06-01
+    summary: |
+      NLP algorithm engineer at Lark, ByteDance.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+  # - name: Technical Skills
+  #   items:
+  #     - name: Python
+  #       description: ''
+  #       percent: 80
+  #       icon: code-bracket
+  #     - name: Data Science
+  #       description: ''
+  #       percent: 100
+  #       icon: chart-bar
+  #     - name: SQL
+  #       description: ''
+  #       percent: 40
+  #       icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Piano
+        description: Amateur level.10 certificate of China National Opera & Dance Drama Theater. Also played in an Anisong band in Peking University.
+        percent: 80
+        icon: custom/piano
+      - name: Board Games
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: "custom/monopoly"
+      - name: Rhythm Games
+        description: Including maimai, chunithm, ongeki, and so on.
+        percent: 90
+        icon: "custom/maimai"
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: English
+    percent: 85
+  - name: Japanese
     percent: 25
 
 # Awards.
@@ -154,33 +153,21 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Award of SoC Teaching Fellowship
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2024-06-27'
+    awarder: National University of Singapore
+    icon: "custom/nus"
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded based on excellent performace as a tutor for CS5242 Deep Learning and Nerual Network. (3 out of all CS PhD students)
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am a second-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
+and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
+Currently I am also an intern at Microsoft Research Asia [System Group (Shanghai)](https://www.msra.cn/zh-cn/msr-asia-shanghai), supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
+I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/)
+My research interest is machine learning system and high performance computing. I have been working on pipeline parallelism and sequence parallelism
+in deep learning training, and I am currently digging into sparse inference and training of deep learning models. I am looking 
+forward to collaborations and research internship opportunities, so please feel free to reach out to me if you are interested in my research.
