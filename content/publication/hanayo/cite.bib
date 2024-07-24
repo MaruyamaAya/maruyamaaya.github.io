@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3581784.3607073,
+author = {Liu, Ziming and Cheng, Shenggan and Zhou, Haotian and You, Yang},
+title = {Hanayo: Harnessing Wave-like Pipeline Parallelism for Enhanced Large Model Training Efficiency},
+year = {2023},
+isbn = {9798400701092},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581784.3607073},
+doi = {10.1145/3581784.3607073},
+abstract = {Large-scale language models have become increasingly challenging and expensive to train. Among various methods addressing this issue, Pipeline Parallelism has been widely employed to accommodate massive model weights within limited GPU memory. This paper introduces Hanayo, a wave-like pipeline parallelism strategy that boasts a concise structure and practical applicability, alongside a high-performance pipeline execution runtime to tackle the challenges of pipeline strategy implementation. Hanayo mitigates the issues of pipeline bubbles and excessive memory consumption prevalent in existing schemes, without resorting to model duplicates as in Chimera. Our evaluation, conducted on four distinct computing clusters and involving both GPT-like and BERT-like architectures with up to 32 GPUs, demonstrates up to a 30.4 \% increase in throughput compared to the state-of-the-art approach.},
+booktitle = {Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+articleno = {56},
+numpages = {13},
+keywords = {distributed deep learning, pipeline parallelism, large scale training, high performance computing},
+location = {Denver, CO, USA},
+series = {SC '23}
+}
