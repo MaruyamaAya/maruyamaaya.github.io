@@ -57,7 +57,7 @@ education:
     date_start: 2023-01-07
     date_end: ''
     summary: |
-      Working on Machine Learning System, supervised by Presidential Yound Professor Yang You.
+      Working on Machine Learning System, supervised by Presidential Young Professor Yang You.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
