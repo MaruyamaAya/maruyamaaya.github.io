@@ -49,6 +49,7 @@ profiles:
 interests:
   - Machine Learning System
   - High Performance Computing
+  - Distribued Training & Inference
   - Sparse Inference & Training
 
 education:
@@ -82,7 +83,7 @@ work:
   - position: Research Intern
     company_name: Microsoft Research
     company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
-    company_logo: custom/Microsoft_logo
+    company_logo: Microsoft_logo
     date_start: 2024-05-01
     date_end: ''
     summary: |2-
