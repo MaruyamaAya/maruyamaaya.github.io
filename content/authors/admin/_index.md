@@ -49,7 +49,7 @@ profiles:
 interests:
   - Machine Learning System
   - High Performance Computing
-  - Distribued Training & Inference
+  - Distributed Training & Inference
   - Sparse Inference & Training
 
 education:
