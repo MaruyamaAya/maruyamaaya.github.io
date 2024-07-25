@@ -42,58 +42,58 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  # - block: resume-experience
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006'
-  #     # Education or Experience section first?
-  #     is_education_first: false
-  - block: experience
+  - block: resume-experience
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Intern
-          company: Microsoft Research
-          company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
-          company_logo: Microsoft_logo
-          location: Shanghai
-          date_start: '2024-05-01'
-          date_end: ''
-          description: |2-
-              Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang.
-        - title: Research Intern
-          company: HPC-AI Tech
-          company_url: https://colossalai.org/
-          company_logo: luchen
-          location: Singapore
-          date_start: '2022-05-01'
-          date_end: '2022-12-01'
-          description: |
-              Responsibilities include:
-              - Developing the efficient LLM inference system EnergonAI.
-              - Optimizing the implementation of ColossalAI.
-        - title: Machine Learning Engineer
-          company: ByteDance
-          company_url: https://www.bytedance.com/en/
-          company_logo: bytedance
-          location: Beijing
-          date_start: '2020-09-01'
-          date_end: '2021-06-01'
-          description: |
-              NLP algorithm engineer at Lark, ByteDance.
+      username: admin
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many experience `items` below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Research Intern
+  #         company: Microsoft Research
+  #         company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
+  #         company_logo: Microsoft_logo
+  #         location: Shanghai
+  #         date_start: '2024-05-01'
+  #         date_end: ''
+  #         description: |2-
+  #             Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang.
+  #       - title: Research Intern
+  #         company: HPC-AI Tech
+  #         company_url: https://colossalai.org/
+  #         company_logo: luchen
+  #         location: Singapore
+  #         date_start: '2022-05-01'
+  #         date_end: '2022-12-01'
+  #         description: |
+  #             Responsibilities include:
+  #             - Developing the efficient LLM inference system EnergonAI.
+  #             - Optimizing the implementation of ColossalAI.
+  #       - title: Machine Learning Engineer
+  #         company: ByteDance
+  #         company_url: https://www.bytedance.com/en/
+  #         company_logo: bytedance
+  #         location: Beijing
+  #         date_start: '2020-09-01'
+  #         date_end: '2021-06-01'
+  #         description: |
+  #             NLP algorithm engineer at Lark, ByteDance.
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
   
   - block: collection
     id: papers
