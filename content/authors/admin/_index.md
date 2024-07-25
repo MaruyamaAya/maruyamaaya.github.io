@@ -91,7 +91,7 @@ work:
   - position: Research Intern
     company_name: HPC-AI Tech
     company_url: https://colossalai.org/
-    company_logo: custom/luchen
+    company_logo: luchen
     date_start: 2022-05-01
     date_end: 2022-12-01
     summary: |
@@ -101,7 +101,7 @@ work:
   - position: Machine Learning Engineer
     company_name: ByteDance
     company_url: https://www.bytedance.com/en/
-    company_logo: custom/bytedance
+    company_logo: bytedance
     date_start: 2020-09-01
     date_end: 2021-06-01
     summary: |
