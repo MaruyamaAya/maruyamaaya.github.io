@@ -10,20 +10,20 @@ authors:
   - Shenggan Cheng
   - Yang You
 
-date: '2024-01-01T00:00:00Z'  # Adjust the date as needed
+date: '2024-05-13T00:00:00Z'  # Adjust the date as needed
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'  # Adjust the date as needed
+publishDate: '2024-05-13T00:00:00Z'  # Adjust the date as needed
 
 # Publication type.
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *MLSys 2024, Proceedings of Machine Learning and Systems*
-publication_short: In *MLSys 2024*
+publication_short: In *MLSys 2024, Proceedings of Machine Learning and Systems*
 
-abstract: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices
+abstract: In recent times, the emergence of Large Language Models (LLMs) has resulted in increasingly larger model size, posing challenges for inference on low-resource devices. Prior approaches have explored offloading to facilitate low-memory inference but often suffer from efficiency due to I/O bottlenecks. To achieve low-latency LLMs inference on resource-constrained devices, we introduce HeteGen, a novel approach that presents a principled framework for heterogeneous parallel computing using CPUs and GPUs. Based on this framework, HeteGen further employs heterogeneous parallel computing and asynchronous overlap for LLMs to mitigate I/O bottlenecks. Our experiments demonstrate a substantial improvement in inference speed, surpassing state-of-the-art methods by over 317% at most.
 
 # Summary. An optional shortened abstract.
 summary: Efficient Heterogeneous Parallel Inference System for LLM on resource-constrained devices.
