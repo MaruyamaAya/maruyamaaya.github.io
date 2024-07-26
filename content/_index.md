@@ -110,6 +110,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 100
       filters:
         folders:
           - publication
