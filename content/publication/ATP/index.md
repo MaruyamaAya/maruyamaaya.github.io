@@ -32,7 +32,7 @@ tags:
   - High Performance Computing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 url_pdf: 'https://arxiv.org/abs/2301.08658'
 url_code: ''
