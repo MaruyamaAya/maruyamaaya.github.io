@@ -9,6 +9,7 @@ authors:
   - Shaoyu Wang
   - Shenggan Cheng
   - Zhongkai Zhao
+  - Kai Wang
   - Xuanlei Zhao
   - Hames Demmel
   - Yang You
@@ -33,7 +34,7 @@ publication_types: ['article']
 publication: Arxiv Preprint
 publication_short: Arxiv Preprint
 
-abstract: In recent years, Transformer-based Large Language Models (LLMs) have garnered significant attention due to their exceptional performance across a variety of tasks. However, training these models on long sequences presents a substantial challenge in terms of efficiency and scalability. Current methods are constrained either by the number of attention heads, limiting scalability, or by excessive communication overheads. In this paper, we propose an insight that Attention Computation can be considered as a special case of n-body problem with direct interactions. Based on this concept, this paper introduces WallFacer, an efficient long-sequence training system with a novel multi-dimensional ring sequence parallelism, fostering an efficient communication paradigm and extra tuning space for communication arrangement. Through comprehensive experiments under diverse environments and model settings, we demonstrate that WallFacer significantly surpasses state-of-the-art method that supports near-infinite sequence length, achieving performance improvements of up to 77.12%.
+abstract: Training Transformer models on long sequences in a distributed setting poses significant challenges in terms of efficiency and scalability. Current methods are either constrained by the number of attention heads or excessive communication overheads. To address this problem, we propose WallFacer, a multi-dimensional distributed training system for long sequences, fostering an efficient communication paradigm and providing additional tuning flexibility for communication arrangements. Specifically, WallFacer introduces an extra parallel dimension to substantially reduce communication volume and avoid bandwidth bottlenecks. Through comprehensive experiments across diverse hardware environments and on both Natural Language Processing (NLP) and Computer Vision (CV) tasks, we demonstrate that our approach significantly surpasses state-of-the-art methods that support near-infinite sequence lengths, achieving performance improvements of up to 77.12% on GPT-style models and up to 114.33% on DiT (Diffusion Transformer) models.
 
 # Summary. An optional shortened abstract.
 summary: Efficient Sequence Parallelism System for Transformer model training.
