@@ -15,11 +15,11 @@ authors:
   - Wei Lin
   - Yang You
 
-date: '2025-03-30T00:00:00Z'  # Adjust the date as needed
+date: '2024-10-27T00:00:00Z'  # Adjust the date as needed
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-03-30T00:00:00Z'  # Adjust the date as needed
+publishDate: '2024-10-27T00:00:00Z'  # Adjust the date as needed
 
 # Publication type.
 publication_types: ['paper-conference']
