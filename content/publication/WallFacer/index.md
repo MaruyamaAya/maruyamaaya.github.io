@@ -11,7 +11,7 @@ authors:
   - Zhongkai Zhao
   - Kai Wang
   - Xuanlei Zhao
-  - Hames Demmel
+  - James Demmel
   - Yang You
 
 # Author notes (optional)
