@@ -2,21 +2,30 @@
 title: 'WeiPipe: Weight Pipeline Parallelism for Communication-Effective Long-Context Large Model Training'
 
 # Authors
-authors:
-  - Junfeng Lin
-  - admin
-  - Yang You
-  - Jun Wang
-  - Weihao Zhang
-  - Rong Zhao
+# authors:
+#   - Junfeng Lin
+#   - admin
+#   - Yang You
+#   - Jun Wang
+#   - Weihao Zhang
+#   - Rong Zhao
 
+# author_notes:
+#   - "Equal contribution"
+#   - "Equal contribution"
+#   - ""
+#   - ""
+#   - ""
+#   - ""
+authors:
+  - admin
+  - Robert Ford
+
+# Author notes (optional)
 author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
-  - ""
-  - ""
-  - ""
-  - ""
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 
 date: '2024-11-10T00:00:00Z'  # Adjust the date as needed
 doi: ''
