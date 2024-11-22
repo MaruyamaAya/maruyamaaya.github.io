@@ -85,7 +85,7 @@ work:
     company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
     company_logo: Microsoft_logo
     date_start: 2024-05-01
-    date_end: ''
+    date_end: '2024-11-15'
     summary: |2-
       Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang.
   - position: Research Intern
@@ -167,8 +167,9 @@ awards:
 
 Hi, I am a second-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
-Currently I am also an intern at Microsoft Research Asia [System Group (Shanghai)](https://www.msra.cn/zh-cn/msr-asia-shanghai), supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/).
+Previously I was an intern at Microsoft Research, supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
+
 
 My research interest is machine learning system and high performance computing. I have been working on pipeline parallelism and sequence parallelism
 in deep learning training, and I am currently digging into sparse inference and training of deep learning models. I am looking 
