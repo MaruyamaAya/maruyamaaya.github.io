@@ -47,7 +47,7 @@ url_video: ''
 
 # Featured image
 image:
-  caption: ''
+  caption: 'WeiPipe-Zero-Bubble'
   focal_point: ''
   preview_only: false
 
