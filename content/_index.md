@@ -41,7 +41,7 @@ sections:
 
         <p style="line-height: 30%;"><font size='3'>2024.10.03  One paper accepted by ASPLOS '25.</font></p>
 
-        <p style="line-height: 30%;"><font size='3'>2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all CS PhD as excellent tutors).</font></p>
+        <p style="line-height: 30%;"><font size='3'>2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all NUS CS PhD).</font></p>
 
         <p style="line-height: 30%;"><font size='3'>2024.04.30  Joined Microsoft Research as a research intern.</font></p>
 
