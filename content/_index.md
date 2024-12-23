@@ -36,14 +36,23 @@ sections:
       subtitle: ''
       text: |-
         2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
+
         2024.11.12  One paper accepted by PPoPP 2025.
+
         2024.10.03  One paper accepted by ASPLOS '25.
+
         2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all CS PhD as excellent tutors).
+
         2024.04.30  Joined Microsoft Research as a research intern.
+
         2024.02.16  One paper accepted by MLSYS 2024.
+
         2024.01.15  One paper accepted by ICLR '24.
+
         2023.06.17  One paper accepted by SC '23.
+
         2023.01.07  Started my PhD career.
+        
     design:
       columns: '1'
   - block: resume-experience
