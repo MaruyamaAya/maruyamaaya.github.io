@@ -35,7 +35,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        <font size='3'>2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
+        <p style="line-height: 75%;"><font size='3'>2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
 
         2024.11.12  One paper accepted by PPoPP 2025.
 
@@ -51,7 +51,7 @@ sections:
 
         2023.06.17  One paper accepted by SC '23.
 
-        2023.01.07  Started my PhD career.</font>
+        2023.01.07  Started my PhD career.</font></p>
 
     design:
       columns: '1'
