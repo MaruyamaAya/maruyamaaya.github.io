@@ -35,23 +35,23 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        <p style="line-height: 30%;"><font size='3'>2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
+        <p style="line-height: 30%;"><font size='3'>2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).</font></p>
 
-        2024.11.12  One paper accepted by PPoPP 2025.
+        <p style="line-height: 30%;"><font size='3'>2024.11.12  One paper accepted by PPoPP 2025.</font></p>
 
-        2024.10.03  One paper accepted by ASPLOS '25.
+        <p style="line-height: 30%;"><font size='3'>2024.10.03  One paper accepted by ASPLOS '25.</font></p>
 
-        2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all CS PhD as excellent tutors).
+        <p style="line-height: 30%;"><font size='3'>2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all CS PhD as excellent tutors).</font></p>
 
-        2024.04.30  Joined Microsoft Research as a research intern.
+        <p style="line-height: 30%;"><font size='3'>2024.04.30  Joined Microsoft Research as a research intern.</font></p>
 
-        2024.02.16  One paper accepted by MLSYS 2024.
+        <p style="line-height: 30%;"><font size='3'>2024.02.16  One paper accepted by MLSYS 2024.</font></p>
 
-        2024.01.15  One paper accepted by ICLR '24.
+        <p style="line-height: 30%;"><font size='3'>2024.01.15  One paper accepted by ICLR '24.</font></p>
 
-        2023.06.17  One paper accepted by SC '23.
+        <p style="line-height: 30%;"><font size='3'>2023.06.17  One paper accepted by SC '23.</font></p>
 
-        2023.01.07  Started my PhD career.</font></p>
+        <p style="line-height: 30%;"><font size='3'>2023.01.07  Started my PhD career.</font></p>
 
     design:
       columns: '1'
