@@ -87,7 +87,7 @@ work:
     date_start: 2024-05-01
     date_end: '2024-11-15'
     summary: |2-
-      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang.
+      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang. Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
   - position: Research Intern
     company_name: HPC-AI Tech
     company_url: https://colossalai.org/
