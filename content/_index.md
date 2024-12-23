@@ -30,18 +30,22 @@ sections:
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: 'Recent News'
+      subtitle: ''
+      text: |-
+        2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
+        2024.11.12  One paper accepted by PPoPP 2025.
+        2024.10.03  One paper accepted by ASPLOS '25.
+        2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all CS PhD as excellent tutors).
+        2024.04.30  Joined Microsoft Research as a research intern.
+        2024.02.16  One paper accepted by MLSYS 2024.
+        2024.01.15  One paper accepted by ICLR '24.
+        2023.06.17  One paper accepted by SC '23.
+        2023.01.07  Started my PhD career.
+    design:
+      columns: '1'
   - block: resume-experience
     content:
       username: admin
@@ -127,35 +131,35 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
   #   content:
