@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'liuziming@comp.nus.edu.sg'
+    url: 'mailto:liuziming@comp.nus.edu.sg'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/lzm_mlsys
