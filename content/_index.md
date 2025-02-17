@@ -35,6 +35,9 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
+
+         <p style="line-height: 100%;"><font size='3'>2024.12.09  Release RAS for efficient DiTs. Code & paper: aka.ms/ras-dit</font></p>
+
         <p style="line-height: 100%;"><font size='3'>2024.12.09  Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).</font></p>
 
         <p style="line-height: 100%;"><font size='3'>2024.11.12  One paper accepted by PPoPP 2025.</font></p>
