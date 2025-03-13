@@ -165,12 +165,11 @@ awards:
 
 ## About Me
 
-Hi, I am a second-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
+Hi, I am a third-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/).
 Previously I was an intern at Microsoft Research, supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
 
 
-My research interest is machine learning system and high performance computing. I have been working on pipeline parallelism and sequence parallelism
-in deep learning training, and I am currently digging into sparse inference and training of deep learning models. I am looking 
-forward to collaborations and research internship opportunities, so please feel free to reach out to me if you are interested in my research.
+My research interests are machine learning systems and high performance computing. I have been working on various parallel techniques in large model training and inference, and I am also interested in the sparsity of deep learning models. I am looking 
+forward to collaborations and research internship opportunities, so please feel free to contact me if you are interested in my research.
