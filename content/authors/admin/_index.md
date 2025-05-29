@@ -26,6 +26,8 @@ role: Ph.D. Candidate
 organizations:
   - name: National University of Singapore
     url: https://www.comp.nus.edu.sg/
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
