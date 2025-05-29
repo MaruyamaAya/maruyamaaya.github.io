@@ -81,7 +81,7 @@ education:
       Bacholor's degree of computer science and engineering. Supervised by Prof. Tong Yang.
 work:
   - position: Research Intern
-    company_name: Stealth Startup
+    company_name: A Stealth Startup (To be announced soon)
     company_url: to-be-announced
     date_start: 2025-01-25
     date_end: ''
