@@ -1,5 +1,5 @@
 ---
-title: 'WallFacer: Guiding Transformer Model Training Out of the Long-Context Dark Forest with N-body Problem'
+title: 'WallFacer: Harnessing Multi-dimensional Ring Parallelism for Efficient Long Sequence Model Training'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
   - Zhongkai Zhao
   - Kai Wang
   - Xuanlei Zhao
-  - Hames Demmel
+  - James Demmel
   - Yang You
 
 # Author notes (optional)

@@ -26,12 +26,14 @@ role: Ph.D. Candidate
 organizations:
   - name: National University of Singapore
     url: https://www.comp.nus.edu.sg/
+  - name: Peking University
+    url: https://www.pku.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'liuziming@comp.nus.edu.sg'
+    url: 'mailto:liuziming@comp.nus.edu.sg'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/lzm_mlsys
@@ -81,13 +83,20 @@ education:
       Bacholor's degree of computer science and engineering. Supervised by Prof. Tong Yang.
 work:
   - position: Research Intern
+    company_name: A Stealth Startup (To be announced soon)
+    company_url: to-be-announced
+    date_start: 2025-01-25
+    date_end: ''
+    summary: |
+      Working on large scale MoE model serving system. Paper to be released soon.
+  - position: Research Intern
     company_name: Microsoft Research
     company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
     company_logo: Microsoft_logo
     date_start: 2024-05-01
-    date_end: ''
+    date_end: '2024-11-15'
     summary: |2-
-      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang.
+      Working on sparse inference and training of text-to-image and text-to-video models. Supervised by Dr. Zhenhua Han and Dr. Yuqing Yang. Awarded the "Stars of Tomorrow" Certificate from MSRA (top 10% intern).
   - position: Research Intern
     company_name: HPC-AI Tech
     company_url: https://colossalai.org/
@@ -165,11 +174,12 @@ awards:
 
 ## About Me
 
-Hi, I am a second-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
+Hi, I am a third-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
-Currently I am also an intern at Microsoft Research Asia [System Group (Shanghai)](https://www.msra.cn/zh-cn/msr-asia-shanghai), supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/).
+Currently I am working for a stealth startup as a research intern on large-scale MoE model serving system.
+Previously I was an intern at Microsoft Research, supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
 
-My research interest is machine learning system and high performance computing. I have been working on pipeline parallelism and sequence parallelism
-in deep learning training, and I am currently digging into sparse inference and training of deep learning models. I am looking 
-forward to collaborations and research internship opportunities, so please feel free to reach out to me if you are interested in my research.
+
+My research interests are machine learning systems and high performance computing. I have been working on various parallel techniques in large model training and inference, and I am also interested in the sparsity of deep learning models. I am looking 
+forward to collaborations and research internship opportunities, so please feel free to contact me if you are interested in my research.
