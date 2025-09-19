@@ -36,7 +36,9 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="line-height: 100%;"><font size='3'>2025.1 Joined a stealth startup as a research intern.</font></p>
+        <p style="line-height: 100%;"><font size='3'>2025.09.18  One paper accepted by NeurIPS '25.</font></p>
+
+        <p style="line-height: 100%;"><font size='3'>2025.1 Joined Qiji Zhifeng as a research intern.</font></p>
 
         <p style="line-height: 100%;"><font size='3'>2024.12.09  Release RAS for efficient DiTs. Code & paper: aka.ms/ras-dit</font></p>
 
