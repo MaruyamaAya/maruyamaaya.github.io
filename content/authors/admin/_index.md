@@ -88,7 +88,7 @@ work:
     date_start: 2025-01-25
     date_end: ''
     summary: |
-      Working on large scale MoE model serving system. Paper to be released soon.
+      Working on large scale MoE model serving system. Paper just released!
   - position: Research Intern
     company_name: Microsoft Research
     company_url: https://www.msra.cn/zh-cn/msr-asia-shanghai
@@ -177,7 +177,7 @@ awards:
 Hi, I am a third-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/).
-Currently I am working for a stealth startup as a research intern on large-scale MoE model serving system.
+Currently I am working on large-scale MoE model serving system.
 Previously I was an intern at Microsoft Research, supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
 
 
