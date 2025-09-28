@@ -43,6 +43,8 @@ sections:
         }
         </style>
 
+        <p class="news-item"><font size='3'>2025.09.22 We release Expert-as-a-Service (EaaS) for MoE serving!</font></p>
+
         <p class="news-item"><font size='3'>2025.09.18  One paper accepted by NeurIPS '25.</font></p>
 
         <p class="news-item"><font size='3'>2025.1 Joined Qiji Zhifeng as a research intern.</font></p>
