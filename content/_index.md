@@ -43,7 +43,7 @@ sections:
         }
         </style>
 
-        <p class="news-item"><font size='3'>2025.09.22 We release Expert-as-a-Service (EaaS) for MoE serving!</font></p>
+        <p class="news-item"><font size='3'>2025.09.22 We release Expert-as-a-Service (EaaS) for MoE serving! Find the blog <a href="https://mp.weixin.qq.com/s/7uQSGe6htpQnv881Ayb2YQ">here</a>.</font></p>
 
         <p class="news-item"><font size='3'>2025.09.18  One paper accepted by NeurIPS '25.</font></p>
 

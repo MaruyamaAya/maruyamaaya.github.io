@@ -65,7 +65,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2509.17863'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://mp.weixin.qq.com/s/7uQSGe6htpQnv881Ayb2YQ'
 url_project: ''
 url_slides: ''
 url_source: ''
