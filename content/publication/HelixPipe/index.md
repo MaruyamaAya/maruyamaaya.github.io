@@ -6,7 +6,7 @@ authors:
   - Geng Zhang
   - Shenggan Cheng
   - Xuanlei Zhao
-  - Ziming Liu
+  - admin
   - Yang You
 
 date: '2025-11-11T00:00:00Z'  # Adjust the date as needed
