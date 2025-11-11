@@ -86,7 +86,7 @@ work:
     company_name: Qiji Zhifeng
     company_url: to-be-announced
     date_start: 2025-01-25
-    date_end: ''
+    date_end: 2025-11-21
     summary: |
       Working on large scale MoE model serving system. Paper just released!
   - position: Research Intern

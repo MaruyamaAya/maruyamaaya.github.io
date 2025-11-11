@@ -43,11 +43,11 @@ sections:
         }
         </style>
 
+        <p class="news-item"><font size='3'>2025.11.11  One paper accepted by PPoPP '26.</font></p>
+
         <p class="news-item"><font size='3'>2025.09.22 We release Expert-as-a-Service (EaaS) for MoE serving! Find the blog <a href="https://mp.weixin.qq.com/s/7uQSGe6htpQnv881Ayb2YQ">here</a>.</font></p>
 
         <p class="news-item"><font size='3'>2025.09.18  One paper accepted by NeurIPS '25.</font></p>
-
-        <p class="news-item"><font size='3'>2025.1 Joined Qiji Zhifeng as a research intern.</font></p>
 
         <p class="news-item"><font size='3'>2024.12.09  Release RAS for efficient DiTs. Code & paper: aka.ms/ras-dit</font></p>
 
@@ -58,8 +58,6 @@ sections:
         <p class="news-item"><font size='3'>2024.10.03  One paper accepted by ASPLOS '25.</font></p>
 
         <p class="news-item"><font size='3'>2024.06.27  Awarded the SoC Teaching Fellowship (3 out of all NUS CS PhD).</font></p>
-
-        <p class="news-item"><font size='3'>2024.04.30  Joined Microsoft Research as a research intern.</font></p>
 
         <p class="news-item"><font size='3'>2024.02.16  One paper accepted by MLSYS 2024.</font></p>
 
