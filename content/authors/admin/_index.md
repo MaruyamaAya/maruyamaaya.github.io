@@ -177,9 +177,7 @@ awards:
 Hi, I am a third-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/).
-Currently I am working on large-scale MoE model serving system.
-Previously I was an intern at Microsoft Research, supervised by [Dr. Zhenhua Han](https://hzhua.github.io/) and [Dr. Yuqing Yang](https://www.microsoft.com/en-us/research/people/yuqyang/).
+I had the honor to receive the 2025 [ByteDance Scholarship Award](https://scholarship.bytedance.com/en) (20 among all CS PhDs in China and Singapore).
 
 
-My research interests are machine learning systems and high performance computing. I have been working on various parallel techniques in large model training and inference, and I am also interested in the sparsity of deep learning models. I am looking 
-forward to collaborations and research internship opportunities, so please feel free to contact me if you are interested in my research.
+My research interests are machine learning systems and high performance computing. I have been working on various parallel techniques in large model training and inference, and I am also interested in the sparsity of deep learning models. I am looking forward to collaborations and research internship opportunities, so please feel free to contact me if you are interested in my research.

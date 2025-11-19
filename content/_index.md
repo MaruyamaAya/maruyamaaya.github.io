@@ -43,6 +43,8 @@ sections:
         }
         </style>
 
+        <p class="news-item"><font size='3'>2025.11.21  Awarded the ByteDance Scholarship Award (20 among all CS PhDs in China and Singapore).</font></p>
+
         <p class="news-item"><font size='3'>2025.11.11  One paper accepted by PPoPP '26.</font></p>
 
         <p class="news-item"><font size='3'>2025.09.22 We release Expert-as-a-Service (EaaS) for MoE serving! Find the blog <a href="https://mp.weixin.qq.com/s/7uQSGe6htpQnv881Ayb2YQ">here</a>.</font></p>
