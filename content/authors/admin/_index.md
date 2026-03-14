@@ -174,7 +174,7 @@ awards:
 
 ## About Me
 
-Hi, I am a third-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
+Hi, I am a final-year CS Ph.D. candidate at [NUS](https://www.comp.nus.edu.sg/), supervised by [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/) 
 and work as a member of [HPC-AI lab](https://ai.comp.nus.edu.sg/).
 I received my bachelor's degree of computer science and engineering at [Peking University](https://www.pku.edu.cn/) in 2020, supervised by [Prof. Tong Yang](https://yangtonghome.github.io/).
 I had the honor to receive the 2025 [ByteDance Scholarship Award](https://scholarship.bytedance.com/en) (20 among all CS PhDs in China and Singapore).

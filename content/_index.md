@@ -43,6 +43,10 @@ sections:
         }
         </style>
 
+        <p class="news-item"><font size='3'>2026.2.21  One paper accepted by CVPR '26.</font></p>
+
+        <p class="news-item"><font size='3'>2026.1.27  One paper accepted by MLSYS '26.</font></p>
+
         <p class="news-item"><font size='3'>2025.11.21  Awarded the ByteDance Scholarship Award (20 among all CS PhDs in China and Singapore).</font></p>
 
         <p class="news-item"><font size='3'>2025.11.11  One paper accepted by PPoPP '26.</font></p>
