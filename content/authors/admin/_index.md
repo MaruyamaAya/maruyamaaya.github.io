@@ -186,4 +186,4 @@ I received my bachelor's degree of computer science and engineering at [Peking U
 I had the honor to receive the 2025 [ByteDance Scholarship Award](https://scholarship.bytedance.com/en) (20 among all CS PhDs in China and Singapore).
 
 
-My research interests are machine learning systems and high performance computing. I have been working on various parallel techniques in large model training and inference, and I am also interested in the sparsity of deep learning models. I am looking forward to collaborations and research internship opportunities, so please feel free to contact me if you are interested in my research.
+My research interests are machine learning systems and high performance computing. I have been working on various parallel techniques in large model training and inference, and I am also interested in the sparsity of deep learning models. I am looking forward to collaborations and full-time job opportunities of 2027, so please feel free to contact me if you are interested in my research.
