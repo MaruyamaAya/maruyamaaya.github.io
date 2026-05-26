@@ -144,7 +144,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Piano
-        description: Amateur level.10 certificate of China National Opera & Dance Drama Theater. Also played in an Anisong band in Peking University.
+        description: Amateur level.10 certificate of China National Opera & Dance Drama Theater. Also played in an Anisong band in Peking University :)
         percent: 80
         icon: custom/piano
       - name: Board Games
