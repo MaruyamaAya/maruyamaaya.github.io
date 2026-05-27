@@ -83,11 +83,12 @@ education:
       Bacholor's degree of computer science and engineering. Supervised by Prof. Tong Yang.
 work:
   - position: Research Intern
-      company_name: Tencent Hunyuan
-      company_url: https://hunyuan.tencent.com/
-      date_start: 2026-05-08
-      summary: |
-        Working on LLM pretraining.
+    company_name: Tencent Hunyuan
+    company_url: https://hunyuan.tencent.com/
+    date_start: 2026-05-08
+    date_end: ''
+    summary: |
+      Working on LLM pretraining.
   - position: Research Intern
     company_name: Qiji Zhifeng
     company_url: to-be-announced
