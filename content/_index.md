@@ -43,6 +43,8 @@ sections:
         }
         </style>
 
+        <p class="news-item"><font size='3'>2026.7.2  One paper accepted by SC '26.</font></p>
+
         <p class="news-item"><font size='3'>2026.2.21  One paper accepted by CVPR '26.</font></p>
 
         <p class="news-item"><font size='3'>2026.1.27  One paper accepted by MLSYS '26.</font></p>

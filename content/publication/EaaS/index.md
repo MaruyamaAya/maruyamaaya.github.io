@@ -41,8 +41,8 @@ publishDate: '2025-09-22T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv Preprint
-publication_short: Arxiv Preprint
+publication: To Appear on SC '26
+publication_short: To Appear on SC '26
 
 abstract: Mixture-of-Experts (MoE) models challenge serving infrastructures with dynamic, sparse expert utilization, causing instability on conventional systems designed for dense architectures. We propose EaaS, a novel serving system to enable efficient, scalable, and robust MoE deployment. Our system disaggregates MoE modules into independent, stateless services. This design enables fine-grained resource scaling and provides inherent fault tolerance by decoupling compute units. The architecture is powered by a high-performance, CPU-free peer-to-peer communication library that ensures minimal overhead and high throughput. Experiments confirm EaaS's scalability and efficiency, achieving performance comparable to monolithic systems while providing robust fault tolerance and strong scalability. EaaS incurs less than a 2% throughput reduction under simulated hardware failures that would otherwise halt monolithic architectures. It further saves up to 37.5% of computing resources through dynamic fine-grained adaptation to serving traffic, demonstrating strong resilience for large-scale MoE deployment in production.
 
